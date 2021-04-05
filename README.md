@@ -1,2 +1,2 @@
 # ai_supervised
-Notebook in python
+Notebooks python
